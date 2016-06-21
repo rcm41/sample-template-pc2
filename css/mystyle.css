@@ -1,0 +1,60 @@
+/*updates for class 3*/
+.jumbotron {
+    background-image: url(https://static.pexels.com/photos/2457/water-animal-hippo-hippopotamus-medium.jpg);
+    background-size: cover;
+    margin-top: 55px;
+    
+}
+
+
+.jumbotron h1,
+.jumbotron .h1 {
+    color: aqua;
+}
+
+/*updates for Class 4*/
+#cat {
+  background-color: red;
+}
+
+#iguana {
+  background-color: blue;
+}
+
+#lioness {
+  background-color: green;
+}
+
+#manatee {
+  background-color: pink;
+}
+
+#manatee-column {
+  column-count: 2;
+}
+
+
+
+/*updates for class 5*/
+.tab-exercise {
+    margin-top: 70px;
+}
+
+/*updates for Class 6*/
+.img-responsive {
+  float: left;
+}
+
+/*template Update June 7*/
+p {
+  word-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*responsive stuff that has to go at the end*/
+@media only screen and (min-width: 800px) {
+  .img-circle {
+        border-radius: 20px;
+}
+}
